@@ -74,5 +74,5 @@ else{
 }
 ?>
 <footer class="text-muted">
-  source code GitHub
+  source code <a href="https://github.com/KitaXvost/bourse">GitHub</a>
 </footer>
